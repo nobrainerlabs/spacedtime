@@ -11,7 +11,7 @@
     "chalk": "^3.0.0",
     "commander": "^5.0.0",
     "fibonacci": "^1.6.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "promptly": "^3.0.3"
   },
   "version": "0.1.21",
